@@ -1,6 +1,6 @@
-# soda-colors
+# Soda Color Scheme
 Repository for the Soda color scheme.  
 
 Currently, only the kitty terminal and neovim are supported. 
 
-![[screenshot.png]]
+<img height=400px src="screenshot.png" />
