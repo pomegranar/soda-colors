@@ -1,0 +1,22 @@
+{
+	"name": "soda-colors",
+	"displayName": "soda-colors",
+	"description": "Soda Colors for VS Code",
+	"license": "MIT",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Soda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Soda-color-theme.json"
+			}
+		]
+	}
+}
